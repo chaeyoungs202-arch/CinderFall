@@ -38,26 +38,26 @@ Build/Windows/*
 # Automation Tool junk
 Engine/Programs/AutomationTool/Saved/
 
-# ------------------------------
-# Visual Studio
-# ------------------------------
-.vs/
-*.VC.db
-*.VC.VC.opendb
-*.suo
-*.user
-*.userprefs
-*.cache
-*.obj
-*.pch
-*.pdb
-*.dll
-*.exe
+# # ------------------------------
+# # Visual Studio
+# # ------------------------------
+# .vs/
+# *.VC.db
+# *.VC.VC.opendb
+# *.suo
+# *.user
+# *.userprefs
+# *.cache
+# *.obj
+# *.pch
+# *.pdb
+# *.dll
+# *.exe
 
-# Generated project files
-*.sln
-*.xcodeproj/
-*.xcworkspace/
+# # Generated project files
+# *.sln
+# *.xcodeproj/
+# *.xcworkspace/
 
 # ------------------------------
 # System files
