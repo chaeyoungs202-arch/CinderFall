@@ -1,0 +1,9 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.pdb
+*.exe
+*.db
+*.bin
+*.ushaderbytecode
